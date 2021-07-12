@@ -11,7 +11,7 @@ Milestone 1 source code: https://github.com/bkoconnell/cs350-milestones/tree/mai
 
 Milestone 1 demo: https://youtu.be/Qr349Zf1F6U
 
-
+<br />
 
 **Milestone 2 - Digital Humidity & Temperature Sensor**
 
@@ -23,7 +23,7 @@ Milestone 2 source code: https://github.com/bkoconnell/cs350-milestones/tree/mai
 
 Milestone 2 demo: https://youtu.be/Epvm2UJLJi0
 
-
+<br />
 
 **Milestone 3 - Light Sensor**
 
@@ -35,8 +35,7 @@ Milestone 3 source code: https://github.com/bkoconnell/cs350-milestones/tree/mai
 
 Milestone 3 demo: https://youtu.be/Vu1d4RBZwRk
 
-
-
+<br />
 
 **Final Project**
 
