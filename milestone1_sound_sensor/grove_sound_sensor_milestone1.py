@@ -46,7 +46,7 @@ sound_sensor = 0
 
 # Connect the Grove LED
 # SIG,NC,VCC,GND
-# Milestone 1: changing pin locatin to D4
+# Milestone 1: changing pin location to D4
 led = 4
 
 grovepi.pinMode(sound_sensor,"INPUT")
