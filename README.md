@@ -3,6 +3,8 @@
 
 In this class, we explored emerging systems, architectures, and technologies with a focus on hardware/software interface. Utilizing the Raspberry Pi embedded system and the GrovePi+ sensor kit, we wrote specific software to interface with the embedded system and control hardware and software components. The following milestone projects are the building blocks for the eventual final project.
 
+<br />
+
 **Milestone 1 - Sound Sensor**
 
 This introductory milestone introduced a basic sound sensor from the GrovePi+ kit. An LED light was attached to the embedded system along with the sound senor, and software was modified accordingly so that when sound exceeded a specified threshold it triggered the LED light to turn on. The specific milestone 1 modifications are commented in the source code.
