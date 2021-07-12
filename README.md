@@ -1,7 +1,7 @@
 # cs350-milestones
-CS350 Emerging Systems, Architectures, and Technologies (embedded systems w/ raspberry pi4 and grovepi+)
+**CS350 Emerging Systems, Architectures, and Technologies** (embedded systems w/ raspberry pi4 and grovepi+)
 
-In this class we explored emerging systems, architectures, and technologies with a focus on hardware/software interface. Utilizing the Raspberry Pi embedded system and the GrovePi+ sensor kit, we wrote specific software to interface with the embedded system and control hardware and software components. The following milestone projects are the building blocks for the eventual final project.
+In this class, we explored emerging systems, architectures, and technologies with a focus on hardware/software interface. Utilizing the Raspberry Pi embedded system and the GrovePi+ sensor kit, we wrote specific software to interface with the embedded system and control hardware and software components. The following milestone projects are the building blocks for the eventual final project.
 
 **Milestone 1 - Sound Sensor**
 
