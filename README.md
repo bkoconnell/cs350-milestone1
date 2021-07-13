@@ -12,6 +12,7 @@ This introductory milestone introduced a basic sound sensor from the GrovePi+ ki
 Milestone 1 source code: https://github.com/bkoconnell/cs350-milestones/tree/main/milestone1_sound_sensor
 
 Milestone 1 demo: https://youtu.be/Qr349Zf1F6U
+(ensure video is set to highest quality)
 
 <br />
 
@@ -24,6 +25,7 @@ The software also converts the data readings to string format then outputs the s
 Milestone 2 source code: https://github.com/bkoconnell/cs350-milestones/tree/main/milestone2_dht_sensor
 
 Milestone 2 demo: https://youtu.be/Epvm2UJLJi0
+(ensure video is set to highest quality)
 
 <br />
 
@@ -36,6 +38,7 @@ In the demo below, a blue LED and a light sensor are connected to the embedded s
 Milestone 3 source code: https://github.com/bkoconnell/cs350-milestones/tree/main/milestone3_light_sensor
 
 Milestone 3 demo: https://youtu.be/Vu1d4RBZwRk
+(ensure video is set to highest quality)
 
 <br />
 
